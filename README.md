@@ -12,10 +12,10 @@ To get a local copy up and running follow these steps.
 ### Dependencies
 We developed and tested this code using these versions:
 * Python 3.8
-* NumPy 1.19.5
-* Matplotlib 3.3.4
 * TensorFlow Keras 2.4.0
 * Gym 0.18.0
+* NumPy 1.19.5
+* Matplotlib 3.3.4
 * Box2D 2.3.10
 
 
