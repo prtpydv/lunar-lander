@@ -10,7 +10,7 @@
 
 To get a local copy up and running follow these steps.
 
-### Prerequisites
+### Dependencies
 
 * Python 3.8
 * NumPy
