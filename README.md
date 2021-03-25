@@ -38,3 +38,7 @@ pip install Box2D gym
 
 
 3. Run the `dql.py` file 
+
+
+### References
+Mnih, V., Kavukcuoglu, K., Silver, D. et al. Human-level control through deep reinforcement learning. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
