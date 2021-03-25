@@ -10,13 +10,13 @@ Solving LunarLander-v2 using DQL
 To get a local copy up and running follow these steps.
 
 ### Dependencies
-
+We developed our code using following versions of the dependencies:
 * Python 3.8
-* NumPy
-* Matplotlib
-* TensorFlow Keras 
-* Gym 
-* Box2D
+* NumPy 1.19.5
+* Matplotlib 3.3.4
+* TensorFlow Keras 2.4.0
+* Gym 0.18.0
+* Box2D 2.3.10
 
 
 
