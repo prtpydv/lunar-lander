@@ -10,7 +10,7 @@ Solving LunarLander-v2 using DQL
 To get a local copy up and running follow these steps.
 
 ### Dependencies
-We developed our code using following versions of the dependencies:
+We developed and tested this code using these versions:
 * Python 3.8
 * NumPy 1.19.5
 * Matplotlib 3.3.4
