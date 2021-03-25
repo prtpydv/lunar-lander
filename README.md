@@ -3,7 +3,7 @@
   <h1 align="center">Lunar Lander</h3>
   <p align="center">
     Solving LunarLander-v2 using DQL
-  (https://github.com/prtpydv/lunar-lander/blob/main/gif/LunarLander-v2.gif)
+  ![](https://github.com/prtpydv/lunar-lander/blob/main/gif/LunarLander-v2.gif)
   </p>
 </p>
 
