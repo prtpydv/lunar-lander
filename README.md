@@ -25,7 +25,7 @@ To get a local copy up and running follow these steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/prtpydv/lunar-lander.git
+git clone git@github.com:prtpydv/lunar-lander.git
 ```
 2. Install the prerequisite packages
 
