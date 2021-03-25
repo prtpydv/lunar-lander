@@ -1,10 +1,6 @@
-<br />
-<p align="center">
-  <h1 align="center">Lunar Lander</h3>
-  <p align="center">
-    Solving LunarLander-v2 using DQL
-  </p>
-</p>
+#Lunar Lander
+Solving LunarLander-v2 using DQL
+
 
 ![Lunar Lander Gif](https://github.com/prtpydv/lunar-lander/blob/main/gif/LunarLander-v2.gif)
 
