@@ -5,9 +5,9 @@
     Solving LunarLander-v2 using DQL
   </p>
 </p>
-
+<center>
 ![](https://github.com/prtpydv/lunar-lander/blob/main/gif/LunarLander-v2.gif)
-
+</center>
 
 ## Getting Started
 
