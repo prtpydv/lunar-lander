@@ -44,7 +44,7 @@ Our agent solves the LunarLander-v2 environment in approximately 500 episodes.
 
 <img src="https://github.com/prtpydv/lunar-lander/blob/main/img/fig%201.png">
 
-After completing the training, our agent was able to sustain a reward of 200 points over a hundred episodes.
+After completing the training, our agent was able to sustain a reward of greater than 200 points over a hundred episodes.
 
 <img src="https://github.com/prtpydv/lunar-lander/blob/main/img/fig%202.png">
 
