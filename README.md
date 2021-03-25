@@ -41,7 +41,7 @@ pip install Box2D gym
 
 
 ### Performance
-Our agent solves the LunarLander-v2 environment in approximately 500 steps.
+Our agent solves the LunarLander-v2 environment in approximately 500 episodes.
 
 <img src="https://github.com/prtpydv/lunar-lander/blob/main/img/fig%201.png">
 
