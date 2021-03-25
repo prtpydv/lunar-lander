@@ -45,7 +45,7 @@ Our agent solves the LunarLander-v2 environment in approximately 500 steps.
 <img src="https://github.com/prtpydv/lunar-lander/blob/main/img/fig%201.png">
 
 After completing the training, our agent was able to sustain a reward of 200 over a hundred episodes.
-<img src="https://github.com/prtpydv/lunar-lander/blob/main/img/fig%201.png">
+<img src="https://github.com/prtpydv/lunar-lander/blob/main/img/fig%202.png">
 
 ### References
 Mnih, V., Kavukcuoglu, K., Silver, D. et al. Human-level control through deep reinforcement learning. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
