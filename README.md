@@ -28,10 +28,10 @@ git clone git@github.com:prtpydv/lunar-lander.git
 2. Install the prerequisite packages
 
 ```sh
-pip install numpy
-pip install matplotlib
 pip install Keras
 pip install gym
+pip install numpy
+pip install matplotlib
 pip install Box2D gym
 ``` 
 
