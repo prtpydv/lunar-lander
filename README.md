@@ -37,7 +37,7 @@ pip install Box2D gym
 ``` 
 
 
-3. Run `dql.py`
+3. Run `main.py`
 
 
 ### Performance
