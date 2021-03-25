@@ -6,9 +6,8 @@
   </p>
 </p>
 
-<div style="text-align:center">
 ![](https://github.com/prtpydv/lunar-lander/blob/main/gif/LunarLander-v2.gif)
-</div>
+
 
 ## Getting Started
 
