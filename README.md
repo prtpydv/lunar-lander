@@ -3,11 +3,12 @@
   <h1 align="center">Lunar Lander</h3>
   <p align="center">
     Solving LunarLander-v2 using DQL
-  
   </p>
 </p>
 
+<p align="center">
 ![](https://github.com/prtpydv/lunar-lander/blob/main/gif/LunarLander-v2.gif)
+</p>
 
 ## Getting Started
 
