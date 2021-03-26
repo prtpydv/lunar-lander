@@ -51,4 +51,4 @@ After completing the training, our agent was able to sustain a reward of greater
 ### References
 Mnih, V., Kavukcuoglu, K., Silver, D. et al. Human-level control through deep reinforcement learning. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
 
-Watkins, C.J.C.H. (1989). Learning from delayed rewards. PhD Thesis, University of Cambridge, England. http://www.cs.rhul.ac.uk/~chrisw/new_thesis.pdf
+Watkins, C.J.C.H. Learning from delayed rewards. PhD Thesis, University of Cambridge, England. (1989). http://www.cs.rhul.ac.uk/~chrisw/new_thesis.pdf
